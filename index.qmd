@@ -1,0 +1,30 @@
+---
+title: Akbar Ali
+image: Akbarimg.jpg
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: rounded
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/aamaanakbar
+    - icon: github
+      text: Github
+      href: https://github.com/Aamaangit
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/aamaan-akbar-ali-a428b2157 
+    - icon: envelope
+      text: Email
+      href: harmoniumchachaa@gmail.com  
+        
+---
+
+
+Hi! I am Akbar Ali.As an enthusiastic learner, I am always eager to take up challenging tasks and push my limits to achieve excellence. My academic journey has give me a strong foundation in the concepts of computer science, and I have gained practical experience through various projects.Currently i am pursuing PH.D from IIT Gandhinagar, Gujarat, India.
+
+
+
+
+
