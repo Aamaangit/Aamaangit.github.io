@@ -1,6 +1,6 @@
 ---
 title: Akbar Ali
-image: Akbarimg.jpg
+image: files/Akbarimg.jpg
 about:
   template: trestles
   image-width: 10em

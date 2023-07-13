@@ -1,7 +1,7 @@
 ---
 title: "GAllary"
 ---
-![IITGN Green Campus, Lal minar view ](iitgn.jpg)  
+![IITGN Green Campus, Lal minar view ](files/iitgn.jpg)  
 
 
-![ladakh, khardungla ](Akbarimg.jpg)
+![ladakh, khardungla ](files/Akbarimg.jpg)
